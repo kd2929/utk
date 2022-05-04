@@ -3,9 +3,7 @@
 
     "name": "MG",
 
-    "description": "A Modular telegram bot.",
-
-    "repository": "https://github.com/Ankurhash/utkarsh",
+    "description": "A Modular https://github.com/Createworld04/utkhttps://github.com/Createworld04/utk",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
